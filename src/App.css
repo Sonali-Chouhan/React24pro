@@ -1,0 +1,8 @@
+
+.formDiv{
+  width: 40%;
+  padding: 34px 13px;
+  display: inline-block;
+  text-align: center;
+  border: 2px solid rgb(128, 115, 115);
+}
